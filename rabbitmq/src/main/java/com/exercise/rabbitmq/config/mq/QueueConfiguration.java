@@ -1,4 +1,4 @@
-package com.exercise.rabbitmq.config;
+package com.exercise.rabbitmq.config.mq;
 
 import org.springframework.amqp.core.Queue;
 import org.springframework.context.annotation.Bean;
