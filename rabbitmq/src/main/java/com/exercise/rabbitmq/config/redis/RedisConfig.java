@@ -12,7 +12,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 /**
  * redis配置类，覆盖自带的，可以省略
- * 此配置类设置了序列化，以及规定key为string
+ * 此配置类设置了序列化
  *
  * @Author: zhiqiang.pan
  * @Date: 2019/7/22 17:36
